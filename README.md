@@ -1,7 +1,7 @@
 # seongmmin0301
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seongmin0301&show_icons=true&theme=radical)
 ![GitHub followers](https://img.shields.io/github/followers/seongmin0301?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/seongmin0301?style=social)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seongmin0301&show_icons=true&theme=radical)
 
 •![Python](https://img.shields.io/badge/python-3.9-blue)
 •![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
